@@ -1,5 +1,5 @@
 # Jenkins-installation-easy-step
-                                                      ## Installing Jenkins on Ubuntu
+                            ## Installing Jenkins on Ubuntu
 
 ### Step 1: Launch an instance in aws with (AMI: ubuntu, instance type: t2.medium)
 
