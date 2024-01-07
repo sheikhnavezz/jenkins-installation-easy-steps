@@ -1,11 +1,11 @@
 # Jenkins-installation-easy-step
-## Installing Jenkins on Ubuntu
+                                                      ## Installing Jenkins on Ubuntu
 
 ### Step 1: Launch an instance in aws with (AMI: ubuntu, instance type: t2.medium)
 
 ![1 instance_img](https://github.com/sheikhnavezz/jenkins-installation-easy-steps/assets/134357661/02ae0a25-46ff-4eac-990c-5b7ec504f717)
 
-### Step 2: SSh (mobaxterm or any terminal cmd: ssh -i <your keyname> ubuntu@public ip)
+### Step 2: SSh (use mobaxterm or any terminal cmd: ssh -i <your keyname> ubuntu@public ip)
 
 ![2 ssh](https://github.com/sheikhnavezz/jenkins-installation-easy-steps/assets/134357661/d1431aa2-d31f-4393-86cf-6d17727cf95a)
 
